@@ -1,1 +1,1 @@
-# Projetos PPython para o bootcamp AWS Re/Start
+# Projetos Python para o bootcamp AWS Re/Start
