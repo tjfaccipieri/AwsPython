@@ -4,7 +4,7 @@ def checkValue(valueToCheck):
   if valueToCheck > 4:
     print("O valor foi maior que 4")
   else:
-    prin("Valor menor ou igual a 4")
+    print("Valor menor ou igual a 4")
 
 var = int(input('Por favor, coloque um numero, na moral: '))
 checkValue(var)
